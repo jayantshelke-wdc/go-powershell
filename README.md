@@ -9,7 +9,7 @@ commands.
 
     go get github.com/bhendo/go-powershell
 
-## Usage
+## Usage - speciifc details about how to use the package
 
 To start a PowerShell shell, you need a backend. Backends take care of starting
 and controlling the actual powershell.exe process. In most cases, you will want
